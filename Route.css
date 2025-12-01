@@ -1,0 +1,175 @@
+ul{
+  
+  padding: 0;
+}
+ul li{
+  display: inline;
+  padding-left: 20px;
+}
+
+
+
+            /* Home */
+            .navigation{
+                text-decoration: none;
+                display: grid;
+                grid-template-columns: auto auto;
+                font-family: 'Times New Roman', Times, serif;
+                padding-left: 10px;
+            }
+            .option{
+                padding-top: 27px;
+                padding-left: 250px;
+                
+            }
+            .option a:hover{
+                 background-color: rosybrown;
+                 padding: 20px;
+                 margin-top: 50px;
+            }
+            
+            .option a{
+                padding-right: 30px;
+                margin-left: 0px;
+                text-decoration: none;
+            }
+            .mainbar{
+                display: grid;
+                grid-template-columns: 60% 40%;
+                background-color: aqua;
+                font-family: cursive;
+                padding-bottom: 30px;
+                padding-left: 20px;
+            }
+            .kids{
+                padding-left: 40px;
+                padding-top: 60px;
+                border-radius: 50px;
+            }
+            .kids img{
+                border-radius: 50%;
+            }
+            .btn1{
+                border-radius: 50px;
+            }
+            .content{
+                padding-left: 50px;
+                padding-top: 50px;
+            }
+
+            /* About Page */
+            .MainBar{
+                display: grid;
+                grid-template-columns: 60% 40%;
+                font-family: cursive;
+            }
+             .MainBar h3{
+                padding-left: 25px;
+             }
+            .women{
+                padding-left:70px;
+               
+            }
+            .kid{
+                padding-left: 30px;
+            }
+            .Container{
+                display: grid;
+                grid-template-columns: 30% 60%;
+                font-family: cursive;
+                
+            }
+            .para{
+                display: grid;
+                grid-template-columns: 60% 40%;
+                font-family: cursive;
+            }
+             .girl{
+                padding-left:70px;
+               
+            }
+            .btn1{
+                border-radius: 50px;
+            }
+
+            /*Contact Page*/
+            .Contact{
+                display: grid;
+                background-color: rgb(237, 237, 75);
+                grid-template-columns: 60% 40%;
+                font-family: cursive;
+                height: 550px;
+                padding-left: 30px;
+            }
+            .form {
+                display: grid;
+                grid-template-columns: 50% 50%;
+                background-color: rgb(89, 251, 89);
+                font-family: cursive;
+                padding-left: 80px;
+                margin-right: 30px;
+                margin-top: 20px;
+                margin-bottom: 35px;
+                border: 2px solid black;
+                border-radius: 50px;
+                text-align: center;  
+            }
+            input{
+                text-align: center;
+            }
+
+            /*Gallary Page*/
+            .first{
+                display: flex;
+            }
+            img{
+                margin: 10px;
+            }
+            .second{
+                display: flex;
+            }
+            .btn{
+                background-color: blue;
+                width: 1070px;
+                height: 50px;
+                color: white;
+                font-family: cursive;
+            }
+
+
+            /* Page */
+
+             #mainbar{
+                display: flex;
+                padding-left: 50px;
+                color: cornflowerblue;
+                font-family: cursive;
+            }
+            h4{
+                margin-left: 180px;
+                
+            }
+            .section{
+                display: flex;
+                margin-left: 150px;
+            }
+            .page{
+                background-color: aqua;
+                height: 500px;
+                margin-top: 20px;
+            }
+            h2{
+                text-align: center;
+                font-family: cursive;
+            }
+            .para{
+                text-align: center;
+                font-family: cursive;
+            }
+            p{
+                font-family: cursive;
+                padding-left: 40px;
+            }
+            hr{
+               width: 95%;
+            }
